@@ -1,0 +1,6 @@
+{
+  "name": "Millennium Wedding Hall",
+  "description": "Premier Wedding & Events Venue in Peshawar featuring spacious halls, catering, flower decor, and ample parking space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
